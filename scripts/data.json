@@ -92,7 +92,7 @@
     },
     {
       "codigo": 3,
-      "nombre": "Sacatepequez",
+      "nombre": "Sacatepéquez",
       "municipios": [
         {
           "codigo": 1,
@@ -364,11 +364,11 @@
     },
     {
       "codigo": 8,
-      "nombre": "Totonicapan",
+      "nombre": "Totonicapán",
         "municipios": [
         {
           "codigo": 1,
-          "nombre": "Totonicapan"
+          "nombre": "Totonicapán"
         }, {
           "codigo": 2,
           "nombre": "San Cristobal Totonicapán"
@@ -784,7 +784,7 @@
     },
     {
       "codigo": 14,
-      "nombre": "Quiche",
+      "nombre": "Quiché",
       "municipios": [
         {
           "codigo": 1,
@@ -947,20 +947,20 @@
     },
     {
       "codigo": 17,
-      "nombre": "Peten",
+      "nombre": "Petén",
       "municipios": [
         {
           "codigo": 1,
           "nombre": "Flores"
         }, {
           "codigo": 2,
-          "nombre": "San Jose"
+          "nombre": "San José"
         }, {
           "codigo": 3,
           "nombre": "San Benito"
         }, {
           "codigo": 4,
-          "nombre": "San Andres"
+          "nombre": "San Andrés"
         }, {
           "codigo": 5,
           "nombre": "La Libertad"
@@ -978,13 +978,13 @@
           "nombre": "San Luis"
         }, {
           "codigo": 10,
-          "nombre": "Sayaxche"
+          "nombre": "Sayaxché"
         }, {
           "codigo": 11,
           "nombre": "Melchor de Mencos"
         }, {
           "codigo": 12,
-          "nombre": "Poptun"
+          "nombre": "Poptún"
         }, {
           "codigo": 13,
           "nombre": "Las Cruces"
