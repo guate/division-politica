@@ -1,0 +1,1192 @@
+{
+  "departamentos": [
+    {
+      "codigo": 1,
+      "nombre": "Guatemala",
+      "municipios": [
+        {
+          "codigo": 1,
+          "nombre": "Guatemala"
+        }, {
+          "codigo": 2,
+          "nombre": "Santa Caterina Pinula"
+        }, {
+          "codigo": 3,
+          "nombre": "San José Pinula"
+        }, {
+          "codigo": 4,
+          "nombre": "San José del Golfo"
+        }, {
+          "codigo": 5,
+          "nombre": "Palencia"
+        }, {
+          "codigo": 6,
+          "nombre": "Chinautla"
+        }, {
+          "codigo": 7,
+          "nombre": "San Pedro Ayampuc"
+        }, {
+          "codigo": 8,
+          "nombre": "Mixco"
+        }, {
+          "codigo": 9,
+          "nombre": "San Pedro Sacatepéquez"
+        }, {
+          "codigo": 10,
+          "nombre": "San Juan Sacatepéquez"
+        }, {
+          "codigo": 11,
+          "nombre": "San Raymundo"
+        }, {
+          "codigo": 12,
+          "nombre": "Churrancho"
+        }, {
+          "codigo": 13,
+          "nombre": "Fraijanes"
+        }, {
+          "codigo": 14,
+          "nombre": "Amatitlán"
+        }, {
+          "codigo": 15,
+          "nombre": "Villa Nueva"
+        }, {
+          "codigo": 16 ,
+          "nombre": "Villa Canales"
+        }, {
+          "codigo": 17,
+          "nombre": "San Miguel Petapa"
+        }
+      ]
+    },
+    {
+      "codigo": 2,
+      "nombre": "El Progreso",
+        "municipios": [
+        {
+          "codigo": 1,
+          "nombre": "Guastatoya"
+        }, {
+          "codigo": 2,
+          "nombre": "Morazán"
+        }, {
+          "codigo": 3,
+          "nombre": "San Agustín Acasaguastlán"
+        }, {
+          "codigo": 4,
+          "nombre": "San Cristóbal Acasaguastlán"
+        }, {
+          "codigo": 5,
+          "nombre": "El Jícaro"
+        }, {
+          "codigo": 6,
+          "nombre": "Sansare"
+        }, {
+          "codigo": 7,
+          "nombre": "Sanarate"
+        },
+          {
+            "codigo": 8,
+            "nombre": "San Antonio La Paz"
+          }
+        ]
+    },
+    {
+      "codigo": 3,
+      "nombre": "Sacatepéquez",
+      "municipios": [
+        {
+          "codigo": 1,
+          "nombre": "Antigua"
+        }, {
+          "codigo": 2,
+          "nombre": "Jocotenango"
+        }, {
+          "codigo": 3,
+          "nombre": "Pastores"
+        }, {
+          "codigo": 4,
+          "nombre": "Sumpango"
+        }, {
+          "codigo": 5,
+          "nombre": "Santo Domingo Xenacoj"
+        }, {
+          "codigo": 6,
+          "nombre": "Santiago Sacatepéquez "
+        }, {
+          "codigo": 7,
+          "nombre": "San Bartolomé Milpas Altas"
+        }, {
+          "codigo": 8,
+          "nombre": "San Lucas Sacatepéquez"
+        }, {
+          "codigo": 9,
+          "nombre": "Santa Lucía Milpas Altas"
+        }, {
+          "codigo": 10,
+          "nombre": "Magdalena Milpas Altas"
+        }, {
+          "codigo": 11,
+          "nombre": "Santa María de Jesús"
+        }, {
+          "codigo": 12,
+          "nombre": "Ciudad Vieja"
+        }, {
+          "codigo": 13,
+          "nombre": "San Miguel Duenas"
+        }, {
+          "codigo": 14,
+          "nombre": "Alotenango"
+        }, {
+          "codigo": 15,
+          "nombre": "San Antonio Aguas Calientes"
+        }, {
+          "codigo": 16 ,
+          "nombre": "Santa Catarina Barahona"
+        }
+      ]
+    },
+    {
+      "codigo": 4,
+      "nombre": "Chimaltenango",
+      "municipios": [
+        {
+          "codigo": 1,
+          "nombre": "Chimaltenango"
+        }, {
+          "codigo": 2,
+          "nombre": "San José Poaquil"
+        }, {
+          "codigo": 3,
+          "nombre": "San Martín Jilotepeque"
+        }, {
+          "codigo": 4,
+          "nombre": "San Juan Comalapa"
+        }, {
+          "codigo": 5,
+          "nombre": "Santa Apolonia"
+        }, {
+          "codigo": 6,
+          "nombre": "Tecpán"
+        }, {
+          "codigo": 7,
+          "nombre": "Patzún"
+        }, {
+          "codigo": 8,
+          "nombre": "San Miguel Pochuta"
+        }, {
+          "codigo": 9,
+          "nombre": "Patzicía"
+        }, {
+          "codigo": 10,
+          "nombre": "Santa Cruz Balanyá"
+        }, {
+          "codigo": 11,
+          "nombre": "Acatenango"
+        }, {
+          "codigo": 12,
+          "nombre": "San Pedro Yepocapa"
+        }, {
+          "codigo": 13,
+          "nombre": "San Andrés Itzapa"
+        }, {
+          "codigo": 14,
+          "nombre": "Parramos"
+        }, {
+          "codigo": 15,
+          "nombre": "Zaragoza"
+        }, {
+          "codigo": 16 ,
+          "nombre": "El Tejar"
+        }
+      ]
+    },
+    {
+      "codigo": 5,
+      "nombre": "Escuintla",
+      "municipios": [
+        {
+          "codigo": 1,
+          "nombre": "Escuintla"
+        }, {
+          "codigo": 2,
+          "nombre": "Santa Lucia Cotzumalguapa"
+        },{
+          "codigo": 3,
+          "nombre": "La Democracia"
+        },{
+          "codigo": 4,
+          "nombre": "Siquinalá"
+        }, {
+          "codigo": 5,
+          "nombre": "Masagua"
+        }, {
+          "codigo": 6,
+          "nombre": "Tiquisate"
+        }, {
+          "codigo": 7,
+          "nombre": "La Gomera"
+        }, {
+          "codigo": 8,
+          "nombre": "Guanagazapa"
+        }, {
+          "codigo": 9,
+          "nombre": "San José"
+        }, {
+          "codigo": 10,
+          "nombre": "Iztapa"
+        }, {
+          "codigo": 11,
+          "nombre": "Palín"
+        }, {
+          "codigo": 12,
+          "nombre": "San Vicente Pacaya"
+        },{
+          "codigo": 13,
+          "nombre": "Nueva Concepción"
+        },{
+          "codigo": 14,
+          "nombre": "Sipacate"
+        }
+      ]
+    },
+    {
+      "codigo": 6,
+      "nombre": "Santa Rosa",
+      "municipios": [
+        {
+          "codigo": 1,
+          "nombre": "Cuilapa"
+        }, {
+          "codigo": 2,
+          "nombre": "Barberena"
+        },{
+          "codigo": 3,
+          "nombre": "Santa Rosa de Lima"
+        },{
+          "codigo": 4,
+          "nombre": "Casillas"
+        }, {
+          "codigo": 5,
+          "nombre": "Oratorio"
+        }, {
+          "codigo": 6,
+          "nombre": "Tiquisate"
+        }, {
+          "codigo": 7,
+          "nombre": "San Juan Tecuaco"
+        }, {
+          "codigo": 8,
+          "nombre": "Chiquimulilla"
+        }, {
+          "codigo": 9,
+          "nombre": "Taxisco"
+        }, {
+          "codigo": 10,
+          "nombre": "Santa Maria Ixhuatán"
+        }, {
+          "codigo": 11,
+          "nombre": "Guazacapán"
+        }, {
+          "codigo": 12,
+          "nombre": "Santa Cruz Naranjo"
+        }, {
+          "codigo": 13,
+          "nombre": "Pueblo Nuevo Viñas"
+        },{
+          "codigo": 16,
+          "nombre": "Nueva Santa Rosa"
+        }
+      ]
+    },
+    {
+      "codigo": 7,
+      "nombre": "Sololá",
+      "municipios": [
+        {
+          "codigo": 1,
+          "nombre": "Sololá"
+        }, {
+          "codigo": 2,
+          "nombre": "San José Chacayá"
+        }, {
+          "codigo": 3,
+          "nombre": "Santa María Visitación"
+        }, {
+          "codigo": 4,
+          "nombre": "Santa María Utatlán"
+        }, {
+          "codigo": 5,
+          "nombre": "Nahualá"
+        }, {
+          "codigo": 6,
+          "nombre": "Santa Catarina Ixtahuacán"
+        }, {
+          "codigo": 7,
+          "nombre": "Santa Clara La Laguna"
+        }, {
+          "codigo": 8,
+          "nombre": "Concepción"
+        }, {
+          "codigo": 9,
+          "nombre": "San Andrés Semetabaj"
+        }, {
+          "codigo": 10,
+          "nombre": "Panajachel"
+        }, {
+          "codigo": 11,
+          "nombre": "Santa Catarina Palopó"
+        }, {
+          "codigo": 12,
+          "nombre": "San Antonio Palopó"
+        }, {
+          "codigo": 13,
+          "nombre": "San Lucas Tolimán"
+        }, {
+          "codigo": 14,
+          "nombre": "Santa Cruz La Laguna"
+        }, {
+          "codigo": 15,
+          "nombre": "San Pablo La Laguna"
+        }, {
+          "codigo": 16 ,
+          "nombre": "San Marcos La Laguna"
+        }, {
+          "codigo": 17,
+          "nombre": "San Juan La Laguna"
+        }, {
+          "codigo": 18,
+          "nombre": "San Pedro La Laguna"
+        }, {
+          "codigo": 19,
+          "nombre": "Santiago Atitlán"
+        }
+      ]
+    },
+    {
+      "codigo": 8,
+      "nombre": "Totonicapán",
+        "municipios": [
+        {
+          "codigo": 1,
+          "nombre": "Totonicapán"
+        }, {
+          "codigo": 2,
+          "nombre": "San Cristobal Totonicapán"
+        }, {
+          "codigo": 3,
+          "nombre": "San Francisco El Alto"
+        }, {
+          "codigo": 4,
+          "nombre": "San Andrés Xecul"
+        }, {
+          "codigo": 5,
+          "nombre": "Momostenango"
+        }, {
+          "codigo": 6,
+          "nombre": "Santa María Chiquimula"
+        }, {
+          "codigo": 7,
+          "nombre": "Santa Lucía La Reforma"
+        },
+          {
+            "codigo": 8,
+            "nombre": "San Bartolo Aguas Calientes"
+          }
+        ]
+    },
+    {
+      "codigo": 9,
+      "nombre": "Quetzaltenango",
+      "municipios": [
+        {
+          "codigo": 1,
+          "nombre": "Quetzaltenango"
+        }, {
+          "codigo": 2,
+          "nombre": "Salcajá"
+        }, {
+          "codigo": 3,
+          "nombre": "Olintepeque"
+        }, {
+          "codigo": 4,
+          "nombre": "San Carlos Sija"
+        }, {
+          "codigo": 5,
+          "nombre": "Sibilia"
+        }, {
+          "codigo": 6,
+          "nombre": "Cabricán"
+        }, {
+          "codigo": 7,
+          "nombre": "Cajolá"
+        }, {
+          "codigo": 8,
+          "nombre": "San Miguel Sigüilá"
+        }, {
+          "codigo": 9,
+          "nombre": "San Juan Ostuncalco"
+        }, {
+          "codigo": 10,
+          "nombre": "San Mateo"
+        }, {
+          "codigo": 11,
+          "nombre": "Concepción Chiquirichapa"
+        }, {
+          "codigo": 12,
+          "nombre": "San Martín Sacatepéquez"
+        }, {
+          "codigo": 13,
+          "nombre": "Almolonga"
+        }, {
+          "codigo": 14,
+          "nombre": "Cantel"
+        }, {
+          "codigo": 15,
+          "nombre": "Huitán"
+        }, {
+          "codigo": 16 ,
+          "nombre": "Zunil"
+        }, {
+          "codigo": 17,
+          "nombre": "Colomba Costa Cuca"
+        }, {
+          "codigo": 18,
+          "nombre": "San Francisco La Unión"
+        }, {
+          "codigo": 19,
+          "nombre": "El Palmar"
+        }, {
+          "codigo": 20,
+          "nombre": "Coatepeque"
+        }, {
+          "codigo": 21,
+          "nombre": "Génova"
+        }, {
+          "codigo": 22 ,
+          "nombre": "Flores Costa Cuca"
+        }, {
+          "codigo": 23,
+          "nombre": "La Esperanza"
+        }, {
+          "codigo": 24,
+          "nombre": "Palestina De Los Altos"
+        }
+      ]
+    },
+    {
+      "codigo": 10,
+      "nombre": "Suchitepéquez",
+      "municipios": [
+        {
+          "codigo": 1,
+          "nombre": "Mazatenango"
+        }, {
+          "codigo": 2,
+          "nombre": "Cuyotenango"
+        }, {
+          "codigo": 3,
+          "nombre": "San Francisco Zapotitlán"
+        }, {
+          "codigo": 4,
+          "nombre": "San Bernardino"
+        }, {
+          "codigo": 5,
+          "nombre": "San José El Idolo"
+        }, {
+          "codigo": 6,
+          "nombre": "Santo Domingo Suchitepéquez"
+        }, {
+          "codigo": 7,
+          "nombre": "San Lorenzo"
+        }, {
+          "codigo": 8,
+          "nombre": "Samayac"
+        }, {
+          "codigo": 9,
+          "nombre": "San Pablo Jocopilas"
+        }, {
+          "codigo": 10,
+          "nombre": "San Antonio Suchitepéquez"
+        }, {
+          "codigo": 11,
+          "nombre": "San Miguel Panám"
+        }, {
+          "codigo": 12,
+          "nombre": "San Gabriel"
+        }, {
+          "codigo": 13,
+          "nombre": "Chicacao"
+        }, {
+          "codigo": 14,
+          "nombre": "Patulul"
+        }, {
+          "codigo": 15,
+          "nombre": "Santa Bárbara"
+        }, {
+          "codigo": 16 ,
+          "nombre": "San Juan Bautista"
+        }, {
+          "codigo": 17,
+          "nombre": "Santo Tomás La Unión"
+        }, {
+          "codigo": 18,
+          "nombre": "Zunilito"
+        }, {
+          "codigo": 19,
+          "nombre": "Pueblo Nuevo"
+        }, {
+          "codigo": 20,
+          "nombre": "Río Bravo"
+        }, {
+          "codigo": 21,
+          "nombre": "San José La Maquina"
+        }
+      ]
+    },
+    {
+      "codigo": 11,
+      "nombre": "Retalhuleu",
+        "municipios": [
+        {
+          "codigo": 1,
+          "nombre": "Retalhuleu"
+        }, {
+          "codigo": 2,
+          "nombre": "San Sebastián"
+        }, {
+          "codigo": 3,
+          "nombre": "Santa Cruz Muluá"
+        }, {
+          "codigo": 4,
+          "nombre": "San Martín Zapotitlán"
+        }, {
+          "codigo": 5,
+          "nombre": "San Felipe"
+        }, {
+          "codigo": 6,
+          "nombre": "San Andrés Villa Seca"
+        }, {
+          "codigo": 7,
+          "nombre": "Champerico"
+        },
+          {
+            "codigo": 8,
+            "nombre": "Nuevo San Carlos"
+          },
+          {
+            "codigo": 9,
+            "nombre": "El Asintal"
+          }
+        ]
+    },
+    {
+      "codigo": 12,
+      "nombre": "San Marcos",
+      "municipios": [
+        {
+          "codigo": 1,
+          "nombre": "San Marcos"
+        }, {
+          "codigo": 2,
+          "nombre": "San Pedro Sacatepéquez"
+        }, {
+          "codigo": 3,
+          "nombre": "San Antonio Sacatepéquez"
+        }, {
+          "codigo": 4,
+          "nombre": "Comitancillo"
+        }, {
+          "codigo": 5,
+          "nombre": "San Miguel Ixtahuacán"
+        }, {
+          "codigo": 6,
+          "nombre": "Concepción Tutuapa"
+        }, {
+          "codigo": 7,
+          "nombre": "Tacaná"
+        }, {
+          "codigo": 8,
+          "nombre": "Sibanal"
+        }, {
+          "codigo": 9,
+          "nombre": "Tajumulco"
+        }, {
+          "codigo": 10,
+          "nombre": "Tejutla"
+        }, {
+          "codigo": 11,
+          "nombre": "San Rafael Pie DE LA CUESTA"
+        }, {
+          "codigo": 12,
+          "nombre": "Nuevo Progreso"
+        }, {
+          "codigo": 13,
+          "nombre": "El Tumbador"
+        }, {
+          "codigo": 14,
+          "nombre": "San José El Rodeo"
+        }, {
+          "codigo": 15,
+          "nombre": "Malacatán"
+        }, {
+          "codigo": 16 ,
+          "nombre": "Catarina"
+        }, {
+          "codigo": 17,
+          "nombre": "Ayutla(Tecun Uman)"
+        }, {
+          "codigo": 18,
+          "nombre": "Ocós"
+        }, {
+          "codigo": 19,
+          "nombre": "San Pablo"
+        }, {
+          "codigo": 20,
+          "nombre": "El Quetzal"
+        }, {
+          "codigo": 21,
+          "nombre": "La Reforma"
+        }, {
+          "codigo": 22 ,
+          "nombre": "Pajapita"
+        }, {
+          "codigo": 23,
+          "nombre": "Ixchiguán"
+        }, {
+          "codigo": 24,
+          "nombre": "San José Ojetenan"
+        }, {
+          "codigo": 25,
+          "nombre": "San Cristóbal Cucho"
+        }, {
+          "codigo": 26,
+          "nombre": "Sipacapa"
+        }, {
+          "codigo": 27 ,
+          "nombre": "Esquipulas Palo Gordo"
+        }, {
+          "codigo": 28,
+          "nombre": "Río Blanco"
+        }, {
+          "codigo": 29,
+          "nombre": "San Lorenzo"
+        }, {
+          "codigo": 30,
+          "nombre": "La Blanca"
+        }
+      ]
+    },
+    {
+      "codigo": 13,
+      "nombre": "Huehuetenango",
+      "municipios": [
+        {
+          "codigo": 1,
+          "nombre": "Huehuetenango"
+        }, {
+          "codigo": 2,
+          "nombre": "Chiantla"
+        }, {
+          "codigo": 3,
+          "nombre": "Malacatancito"
+        }, {
+          "codigo": 4,
+          "nombre": "Cuilco"
+        }, {
+          "codigo": 5,
+          "nombre": "Nentón"
+        }, {
+          "codigo": 6,
+          "nombre": "San Pedro Nécta"
+        }, {
+          "codigo": 7,
+          "nombre": "Jacaltenango"
+        }, {
+          "codigo": 8,
+          "nombre": "San Pedro Soloma"
+        }, {
+          "codigo": 9,
+          "nombre": "San Idelfonso Ixtahuacán"
+        }, {
+          "codigo": 10,
+          "nombre": "Santa Bárbara"
+        }, {
+          "codigo": 11,
+          "nombre": "La Libertad"
+        }, {
+          "codigo": 12,
+          "nombre": "La Democracia"
+        }, {
+          "codigo": 13,
+          "nombre": "San Miguel Acatán"
+        }, {
+          "codigo": 14,
+          "nombre": "San Rafael La Independencia"
+        }, {
+          "codigo": 15,
+          "nombre": "Todos Santos Cuchumatán"
+        }, {
+          "codigo": 16 ,
+          "nombre": "San Juan Atitán"
+        }, {
+          "codigo": 17,
+          "nombre": "Santa Eulalia"
+        }, {
+          "codigo": 18,
+          "nombre": "San Mateo Ixtatán"
+        }, {
+          "codigo": 19,
+          "nombre": "Colotenango"
+        }, {
+          "codigo": 20,
+          "nombre": "San Sebastián Huehuetenango"
+        }, {
+          "codigo": 21,
+          "nombre": "Tectitán"
+        }, {
+          "codigo": 22 ,
+          "nombre": "Concepción Huista"
+        }, {
+          "codigo": 23,
+          "nombre": "San Juan Ixcoy"
+        }, {
+          "codigo": 24,
+          "nombre": "San Antonio Huista"
+        }, {
+          "codigo": 25,
+          "nombre": "San Sebastián Coatán"
+        }, {
+          "codigo": 26,
+          "nombre": "Santa Cruz Barillas"
+        }, {
+          "codigo": 27 ,
+          "nombre": "Aguacatán"
+        }, {
+          "codigo": 28,
+          "nombre": "San Rafael Pétzal"
+        }, {
+          "codigo": 29,
+          "nombre": "San Gaspar Ixchil"
+        }, {
+          "codigo": 30 ,
+          "nombre": "Santiago Chimaltenango"
+        }, {
+          "codigo": 31,
+          "nombre": "Santa Ana Huista"
+        }, {
+          "codigo": 32,
+          "nombre": "Unión Cantinil"
+        }, {
+          "codigo": 33,
+          "nombre": "Petatán"
+        }
+      ]
+    },
+    {
+      "codigo": 14,
+      "nombre": "Quiché",
+      "municipios": [
+        {
+          "codigo": 1,
+          "nombre": "Santa Cruz del Quiché"
+        }, {
+          "codigo": 2,
+          "nombre": "Chiché"
+        }, {
+          "codigo": 3,
+          "nombre": "Chinique"
+        }, {
+          "codigo": 4,
+          "nombre": "Zacualpa"
+        }, {
+          "codigo": 5,
+          "nombre": "Chajul"
+        }, {
+          "codigo": 6,
+          "nombre": "Sto Tomas Chichicastenango"
+        }, {
+          "codigo": 7,
+          "nombre": "Patzité"
+        }, {
+          "codigo": 8,
+          "nombre": "San Antonio Ilotenango"
+        }, {
+          "codigo": 9,
+          "nombre": "San Pedro Jopilas"
+        }, {
+          "codigo": 10,
+          "nombre": "Cunén"
+        }, {
+          "codigo": 11,
+          "nombre": "San Juan Cotzal"
+        }, {
+          "codigo": 12,
+          "nombre": "Joyabaj"
+        }, {
+          "codigo": 13,
+          "nombre": "Nebaj"
+        }, {
+          "codigo": 14,
+          "nombre": "San Andrés Sajcabajá"
+        }, {
+          "codigo": 15,
+          "nombre": " Uspantán"
+        }, {
+          "codigo": 16 ,
+          "nombre": "Sacapulas"
+        }, {
+          "codigo": 17,
+          "nombre": "San Bartolomé Jocotenango"
+        }, {
+          "codigo": 18,
+          "nombre": "Canillá"
+        }, {
+          "codigo": 19,
+          "nombre": "Chicamán"
+        }, {
+          "codigo": 20,
+          "nombre": "Ixcán"
+        }, {
+          "codigo": 21,
+          "nombre": "Pachalun"
+        }, {
+          "codigo": 22 ,
+          "nombre": "Playa Grande"
+        }
+      ]
+    },
+    {
+      "codigo": 15,
+      "nombre": "Baja Verapaz",
+        "municipios": [
+        {
+          "codigo": 1,
+          "nombre": "Salamá"
+        }, {
+          "codigo": 2,
+          "nombre": "San Miguel Chicaj"
+        }, {
+          "codigo": 3,
+          "nombre": "Rabinal"
+        }, {
+          "codigo": 4,
+          "nombre": "Cubulco"
+        }, {
+          "codigo": 5,
+          "nombre": "Granados"
+        }, {
+          "codigo": 6,
+          "nombre": "Santa Cruz El Chol"
+        }, {
+          "codigo": 7,
+          "nombre": "San Jerónimo"
+        },
+          {
+            "codigo": 8,
+            "nombre": "Purulha"
+          }
+        ]
+    },
+    {
+      "codigo": 16,
+      "nombre": "Alta Verapaz",
+      "municipios": [
+        {
+          "codigo": 1,
+          "nombre": "Cobán"
+        }, {
+          "codigo": 2,
+          "nombre": "Santa Cruz Verapaz"
+        }, {
+          "codigo": 3,
+          "nombre": "San Cristóbal Verapaz"
+        }, {
+          "codigo": 4,
+          "nombre": "Tactic"
+        }, {
+          "codigo": 5,
+          "nombre": "Tamahú"
+        }, {
+          "codigo": 6,
+          "nombre": "Tucurú"
+        }, {
+          "codigo": 7,
+          "nombre": "Panzos"
+        }, {
+          "codigo": 8,
+          "nombre": "Senahú"
+        }, {
+          "codigo": 9,
+          "nombre": "San Pedro Carchá"
+        }, {
+          "codigo": 10,
+          "nombre": "San Juan Chamelco"
+        }, {
+          "codigo": 11,
+          "nombre": "Lanquin"
+        }, {
+          "codigo": 12,
+          "nombre": "Santa María Cahabón"
+        }, {
+          "codigo": 13,
+          "nombre": "Chisec"
+        }, {
+          "codigo": 14,
+          "nombre": "Chahal"
+        }, {
+          "codigo": 15,
+          "nombre": "Fray Bartolomé De Las Casas"
+        }, {
+          "codigo": 16 ,
+          "nombre": "La Tinta"
+        }, {
+          "codigo": 17,
+          "nombre": "Raxruhá"
+        }
+      ]
+    },
+    {
+      "codigo": 17,
+      "nombre": "Petén",
+      "municipios": [
+        {
+          "codigo": 1,
+          "nombre": "Flores"
+        }, {
+          "codigo": 2,
+          "nombre": "San José"
+        }, {
+          "codigo": 3,
+          "nombre": "San Benito"
+        }, {
+          "codigo": 4,
+          "nombre": "San Andrés"
+        }, {
+          "codigo": 5,
+          "nombre": "La Libertad"
+        }, {
+          "codigo": 6,
+          "nombre": "San Francisco"
+        }, {
+          "codigo": 7,
+          "nombre": "Santa Ana"
+        }, {
+          "codigo": 8,
+          "nombre": "Dolores"
+        }, {
+          "codigo": 9,
+          "nombre": "San Luis"
+        }, {
+          "codigo": 10,
+          "nombre": "Sayaxché"
+        }, {
+          "codigo": 11,
+          "nombre": "Melchor de Mencos"
+        }, {
+          "codigo": 12,
+          "nombre": "Poptún"
+        }, {
+          "codigo": 13,
+          "nombre": "Las Cruces"
+        }, {
+          "codigo": 14,
+          "nombre": "El Chal"
+        }
+      ]
+    },
+    {
+      "codigo": 18,
+      "nombre": "Izabal",
+        "municipios": [
+        {
+          "codigo": 1,
+          "nombre": "Puerto Barrios"
+        }, {
+          "codigo": 2,
+          "nombre": "Livingston"
+        }, {
+          "codigo": 3,
+          "nombre": "El Estor"
+        }, {
+          "codigo": 4,
+          "nombre": "Morales"
+        }, {
+          "codigo": 5,
+          "nombre": "Los Amates"
+        }
+        ]
+    },
+    {
+      "codigo": 19,
+      "nombre": "Zacapa",
+        "municipios": [
+        {
+          "codigo": 1,
+          "nombre": "Zacapa"
+        }, {
+          "codigo": 2,
+          "nombre": "Estanzuela"
+        }, {
+          "codigo": 3,
+          "nombre": "Rio Hondo"
+        }, {
+          "codigo": 4,
+          "nombre": "Gualán"
+        }, {
+          "codigo": 5,
+          "nombre": "Teculután"
+        }, {
+          "codigo": 6,
+          "nombre": "Usumatlán"
+        }, {
+          "codigo": 7,
+          "nombre": "Cabañas"
+        },
+          {
+            "codigo": 8,
+            "nombre": "San Diego"
+          }, {
+          "codigo": 9,
+          "nombre": "La Unión"
+        },
+          {
+            "codigo": 10,
+            "nombre": "Huité"
+          },
+          {
+            "codigo": 11,
+            "nombre": "San Jorge"
+          }
+        ]
+    },
+    {
+      "codigo": 20,
+      "nombre": "Chiquimula",
+        "municipios": [
+        {
+          "codigo": 1,
+          "nombre": "Chiquimula"
+        }, {
+          "codigo": 2,
+          "nombre": "San José La Arada"
+        }, {
+          "codigo": 3,
+          "nombre": "San Juan Ermita"
+        }, {
+          "codigo": 4,
+          "nombre": "Jocotán"
+        }, {
+          "codigo": 5,
+          "nombre": "Camotán"
+        }, {
+          "codigo": 6,
+          "nombre": "Olopa"
+        }, {
+          "codigo": 7,
+          "nombre": "Esquipulas"
+        },
+          {
+            "codigo": 8,
+            "nombre": "Concepción Las Minas"
+          }, {
+          "codigo": 9,
+          "nombre": "Quezaltepeque"
+        },
+          {
+            "codigo": 10,
+            "nombre": "San Jacinto"
+          },
+          {
+            "codigo": 11,
+            "nombre": "Ipala"
+          }
+        ]
+    },
+    {
+      "codigo": 21,
+      "nombre": "Jalapa",
+        "municipios": [
+        {
+          "codigo": 1,
+          "nombre": "Jalapa"
+        }, {
+          "codigo": 2,
+          "nombre": "San Pedro Pinula"
+        }, {
+          "codigo": 3,
+          "nombre": "San Luis Jilotepeque"
+        }, {
+          "codigo": 4,
+          "nombre": "San Manuel Chaparrón"
+        }, {
+          "codigo": 5,
+          "nombre": "San Carlos Alzatate"
+        }, {
+          "codigo": 6,
+          "nombre": "Monjas"
+        }, {
+          "codigo": 7,
+          "nombre": "Mataquescuintla"
+        }
+        ]
+    },
+    {
+      "codigo": 22,
+      "nombre": "Jutiapa",
+      "municipios": [
+        {
+          "codigo": 1,
+          "nombre": "Jutiapa"
+        }, {
+          "codigo": 2,
+          "nombre": "El Progreso"
+        }, {
+          "codigo": 3,
+          "nombre": "Santa Catarina Mita"
+        }, {
+          "codigo": 4,
+          "nombre": "Agua Blanca"
+        }, {
+          "codigo": 5,
+          "nombre": "Asunción Mita"
+        }, {
+          "codigo": 6,
+          "nombre": "Yupiltepeque"
+        }, {
+          "codigo": 7,
+          "nombre": "Atescatempa"
+        }, {
+          "codigo": 8,
+          "nombre": "Jerez"
+        }, {
+          "codigo": 9,
+          "nombre": "El Adelanto"
+        }, {
+          "codigo": 10,
+          "nombre": "Zapotitlán"
+        }, {
+          "codigo": 11,
+          "nombre": "Comapa"
+        }, {
+          "codigo": 12,
+          "nombre": "Jalpatagua"
+        }, {
+          "codigo": 13,
+          "nombre": "Conguaco"
+        }, {
+          "codigo": 14,
+          "nombre": "Moyuta"
+        }, {
+          "codigo": 15,
+          "nombre": "Pasaco"
+        }, {
+          "codigo": 16 ,
+          "nombre": "San José Acatempa"
+        }, {
+          "codigo": 17,
+          "nombre": "Quesada"
+        }
+      ]
+    }
+  ]
+}
