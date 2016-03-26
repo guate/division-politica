@@ -16,6 +16,9 @@ setup_args = dict(
     setup_requires=[
         'setuptools_scm',
     ],
+    install_requires=[
+        'attrdict'
+    ]
 )
 
 
