@@ -17,7 +17,8 @@ setup_args = dict(
         'setuptools_scm',
     ],
     install_requires=[
-        'attrdict'
+        'attrdict',
+        'chilero>=0.3.8'
     ]
 )
 

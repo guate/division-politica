@@ -1,6 +1,11 @@
+from aiohttp import request
+from chilero.web import Application
+from chilero.web.test import WebTestCase, asynctest
+
 from guate.division_politica import (
     Collection, Departamentos
 )
+from guate.division_politica.resources import Municipios
 
 
 def test_data():
@@ -26,4 +31,36 @@ def test_data():
 
         assert c[1] == m.nombre_completo
 
+
+class TestMunicipios(WebTestCase):
+    routes = [
+        ['/', Municipios]
+    ]
+    application = Application
+
+    @asynctest
+    def test_index(self):
+        resp = yield from request('GET', self.full_url('/'))
+        assert resp.status == 200
+        resp.close()
+
+    @asynctest
+    def test_search(self):
+        resp = yield from request('GET', self.full_url('/?search=arada'))
+        jresp = yield from resp.json()
+        assert jresp['index'][0]['nombre'] == 'Chiquimula / San José La Arada'
+        resp.close()
+
+    @asynctest
+    def test_show(self):
+        resp = yield from request('GET', self.full_url('/20-02'))
+        jresp = yield from resp.json()
+        assert jresp['body']['nombre'] == 'Chiquimula / San José La Arada'
+        resp.close()
+
+    @asynctest
+    def test_search(self):
+        resp = yield from request('GET', self.full_url('/20-12'))
+        assert resp.status == 404
+        resp.close()
 
