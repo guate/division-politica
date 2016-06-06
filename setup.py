@@ -1,4 +1,3 @@
-#-*- coding: utf-8 -*-
 from setuptools import setup
 
 with open('README.md', 'r') as ld:
